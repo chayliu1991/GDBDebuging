@@ -18,7 +18,6 @@ Contents:
    src/ch5/打印
    src/ch6/源码
    src/ch7/多进程与多线程
-   src/ch10/其它
    src/ch8/coredump
    src/ch9/其它
 
